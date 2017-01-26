@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlanner", "ConsolePlanner\ConsolePlanner.csproj", "{EEEDEA0A-FC80-4922-8F00-31A612DAA322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerForm", "PlannerForm\PlannerForm.csproj", "{1A1B3C85-4673-4D5F-8D13-2BAD76556E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerFormBL", "PlannerFormBL\PlannerFormBL.csproj", "{688EA241-F4BB-4F04-ACD1-767F4226EFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEDEA0A-FC80-4922-8F00-31A612DAA322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEDEA0A-FC80-4922-8F00-31A612DAA322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEDEA0A-FC80-4922-8F00-31A612DAA322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEDEA0A-FC80-4922-8F00-31A612DAA322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1B3C85-4673-4D5F-8D13-2BAD76556E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1B3C85-4673-4D5F-8D13-2BAD76556E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1B3C85-4673-4D5F-8D13-2BAD76556E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1B3C85-4673-4D5F-8D13-2BAD76556E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688EA241-F4BB-4F04-ACD1-767F4226EFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688EA241-F4BB-4F04-ACD1-767F4226EFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688EA241-F4BB-4F04-ACD1-767F4226EFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688EA241-F4BB-4F04-ACD1-767F4226EFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

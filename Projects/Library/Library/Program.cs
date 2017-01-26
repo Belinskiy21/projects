@@ -16,6 +16,7 @@ namespace Library
                 Book book = new Book();
                 book.Title = "Voyna i mir";
                 book.Author = "Lev Tolstoy";
+                book.ISBN = "5-05-000-746-1";
 
                 context.Books.Add(book);
                 context.SaveChanges();
